@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VEH Hook", "VEH Hooking\VEH Hooking.vcproj", "{9A77A30F-3E5D-4B39-BB13-0EA61DBEB560}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VEH Hooking Test", "VEH Hooking Test\VEH Hooking Test.vcproj", "{3957C2E9-E67F-4E6A-8E4F-7F62D8D4FD13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A77A30F-3E5D-4B39-BB13-0EA61DBEB560}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A77A30F-3E5D-4B39-BB13-0EA61DBEB560}.Debug|Win32.Build.0 = Debug|Win32
+		{9A77A30F-3E5D-4B39-BB13-0EA61DBEB560}.Release|Win32.ActiveCfg = Release|Win32
+		{9A77A30F-3E5D-4B39-BB13-0EA61DBEB560}.Release|Win32.Build.0 = Release|Win32
+		{3957C2E9-E67F-4E6A-8E4F-7F62D8D4FD13}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3957C2E9-E67F-4E6A-8E4F-7F62D8D4FD13}.Debug|Win32.Build.0 = Debug|Win32
+		{3957C2E9-E67F-4E6A-8E4F-7F62D8D4FD13}.Release|Win32.ActiveCfg = Release|Win32
+		{3957C2E9-E67F-4E6A-8E4F-7F62D8D4FD13}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
